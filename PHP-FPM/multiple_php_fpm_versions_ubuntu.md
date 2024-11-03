@@ -74,25 +74,25 @@ Nous partirons du principe que nous souhaitons installer les versions de PHP >= 
 #### Installation de PHP 7.4
 
 ```bash
-sudo apt install php7.4 php7.4-fpm php7.4-mysql libapache2-mod-php7.4 -y
+sudo apt install php7.4 php7.4-fpm php7.4-mysql php7.4-xdebug libapache2-mod-php7.4 -y
 ```
 
 #### Installation de PHP 8.1
 
 ```bash
-sudo apt install php8.1 php8.1-fpm php8.1-mysql libapache2-mod-php8.1 -y
+sudo apt install php8.1 php8.1-fpm php8.1-mysql php8.1-xdebug libapache2-mod-php8.1 -y
 ```
 
 #### Installation de PHP 8.2
 
 ```bash
-sudo apt install php8.2 php8.2-fpm php8.2-mysql libapache2-mod-php8.2 -y
+sudo apt install php8.2 php8.2-fpm php8.2-mysql php8.2-xdebug libapache2-mod-php8.2 -y
 ```
 
 #### Installation de PHP 8.3
 
 ```bash
-sudo apt install php8.3 php8.3-fpm php8.3-mysql libapache2-mod-php8.3 -y
+sudo apt install php8.3 php8.3-fpm php8.3-mysql php8.3-xdebug libapache2-mod-php8.3 -y
 ```
 
 Pour vérifier la bonne installation des différentes versions :
