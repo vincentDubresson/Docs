@@ -157,7 +157,7 @@ Exemple de retour :
 Nous devons activer certains modules d'Apache2 en utilisant a2enmod :
 
 ```bash
-sudo a2enmod actions fcgid alias proxy_fcgi
+sudo a2enmod actions fcgid alias proxy_fcgi rewrite
 ```
 
 Redémarrer Apache2 :
